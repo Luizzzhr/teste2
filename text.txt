@@ -1,0 +1,8 @@
+GIT INIT
+GIT STATUS
+GIT ADD .
+GIT COMMIT -m "algo"
+GIT COMMIT -a -m
+GIT branch -M main
+git remote add origin https://
+GIT PUSH
